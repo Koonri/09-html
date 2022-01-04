@@ -1,0 +1,25 @@
+
+nav {
+    float: left;
+    
+    background-color: palegreen;
+   
+}
+
+.section {
+    float: left;
+    width: 1000px;
+    margin-bottom: 20px;
+    padding: 0px 230px;
+    background-color: cyan;
+}
+aside {
+    float: left;
+    
+    background-color: palevioletred;
+}
+footer {
+    clear: both;
+    padding: 0px 0px 130px 0px;
+    background-color: peru;
+}
